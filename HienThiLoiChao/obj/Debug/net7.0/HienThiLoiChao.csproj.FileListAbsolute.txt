@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.exe
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.deps.json
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.dll
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\bin\Debug\net7.0\HienThiLoiChao.pdb
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.dll
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\refint\HienThiLoiChao.dll
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.pdb
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\HienThiLoiChao.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\HienThiLoiChao\obj\Debug\net7.0\ref\HienThiLoiChao.dll

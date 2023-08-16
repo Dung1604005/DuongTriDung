@@ -1,1 +1,1 @@
-﻿namespace Hello
+﻿
