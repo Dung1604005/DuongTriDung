@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\bin\Debug\net7.0\DuongTriDung.exe
+C:\Users\ADMIN\DuongTriDung\bin\Debug\net7.0\DuongTriDung.deps.json
+C:\Users\ADMIN\DuongTriDung\bin\Debug\net7.0\DuongTriDung.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\bin\Debug\net7.0\DuongTriDung.dll
+C:\Users\ADMIN\DuongTriDung\bin\Debug\net7.0\DuongTriDung.pdb
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\DuongTriDung.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\DuongTriDung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\DuongTriDung.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\DuongTriDung.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\DuongTriDung.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\DuongTriDung.dll
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\refint\DuongTriDung.dll
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\DuongTriDung.pdb
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\DuongTriDung.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\obj\Debug\net7.0\ref\DuongTriDung.dll
