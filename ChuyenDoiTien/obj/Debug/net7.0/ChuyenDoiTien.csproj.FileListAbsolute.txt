@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\bin\Debug\net7.0\ChuyenDoiTien.exe
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\bin\Debug\net7.0\ChuyenDoiTien.deps.json
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\bin\Debug\net7.0\ChuyenDoiTien.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\bin\Debug\net7.0\ChuyenDoiTien.dll
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\bin\Debug\net7.0\ChuyenDoiTien.pdb
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\ChuyenDoiTien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\ChuyenDoiTien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\ChuyenDoiTien.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\ChuyenDoiTien.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\ChuyenDoiTien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\ChuyenDoiTien.dll
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\refint\ChuyenDoiTien.dll
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\ChuyenDoiTien.pdb
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\ChuyenDoiTien.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\ChuyenDoiTien\obj\Debug\net7.0\ref\ChuyenDoiTien.dll
