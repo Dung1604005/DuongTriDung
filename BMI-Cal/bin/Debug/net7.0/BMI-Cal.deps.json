@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BMI-Cal/1.0.0": {
+        "runtime": {
+          "BMI-Cal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMI-Cal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

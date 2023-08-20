@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\bin\Debug\net7.0\BMI-Cal.exe
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\bin\Debug\net7.0\BMI-Cal.deps.json
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\bin\Debug\net7.0\BMI-Cal.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\bin\Debug\net7.0\BMI-Cal.dll
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\bin\Debug\net7.0\BMI-Cal.pdb
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\BMI-Cal.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\BMI-Cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\BMI-Cal.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\BMI-Cal.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\BMI-Cal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\BMI-Cal.dll
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\refint\BMI-Cal.dll
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\BMI-Cal.pdb
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\BMI-Cal.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\BMI-Cal\obj\Debug\net7.0\ref\BMI-Cal.dll
