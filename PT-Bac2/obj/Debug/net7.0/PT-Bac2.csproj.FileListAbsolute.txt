@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\bin\Debug\net7.0\PT-Bac2.exe
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\bin\Debug\net7.0\PT-Bac2.deps.json
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\bin\Debug\net7.0\PT-Bac2.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\bin\Debug\net7.0\PT-Bac2.dll
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\bin\Debug\net7.0\PT-Bac2.pdb
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\PT-Bac2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\PT-Bac2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\PT-Bac2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\PT-Bac2.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\PT-Bac2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\PT-Bac2.dll
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\refint\PT-Bac2.dll
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\PT-Bac2.pdb
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\PT-Bac2.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\PT-Bac2\obj\Debug\net7.0\ref\PT-Bac2.dll
