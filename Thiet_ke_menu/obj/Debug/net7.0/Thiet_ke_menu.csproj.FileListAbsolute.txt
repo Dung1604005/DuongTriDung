@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\bin\Debug\net7.0\Thiet_ke_menu.exe
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\bin\Debug\net7.0\Thiet_ke_menu.deps.json
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\bin\Debug\net7.0\Thiet_ke_menu.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\bin\Debug\net7.0\Thiet_ke_menu.dll
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\bin\Debug\net7.0\Thiet_ke_menu.pdb
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\Thiet_ke_menu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\Thiet_ke_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\Thiet_ke_menu.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\Thiet_ke_menu.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\Thiet_ke_menu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\Thiet_ke_menu.dll
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\refint\Thiet_ke_menu.dll
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\Thiet_ke_menu.pdb
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\Thiet_ke_menu.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Thiet_ke_menu\obj\Debug\net7.0\ref\Thiet_ke_menu.dll
