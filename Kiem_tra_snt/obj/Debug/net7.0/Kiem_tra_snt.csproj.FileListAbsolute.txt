@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\bin\Debug\net7.0\Kiem_tra_snt.exe
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\bin\Debug\net7.0\Kiem_tra_snt.deps.json
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\bin\Debug\net7.0\Kiem_tra_snt.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\bin\Debug\net7.0\Kiem_tra_snt.dll
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\bin\Debug\net7.0\Kiem_tra_snt.pdb
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\Kiem_tra_snt.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\Kiem_tra_snt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\Kiem_tra_snt.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\Kiem_tra_snt.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\Kiem_tra_snt.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\Kiem_tra_snt.dll
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\refint\Kiem_tra_snt.dll
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\Kiem_tra_snt.pdb
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\Kiem_tra_snt.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Kiem_tra_snt\obj\Debug\net7.0\ref\Kiem_tra_snt.dll
