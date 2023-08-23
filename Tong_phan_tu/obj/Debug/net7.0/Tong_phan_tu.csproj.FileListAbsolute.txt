@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\bin\Debug\net7.0\Tong_phan_tu.exe
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\bin\Debug\net7.0\Tong_phan_tu.deps.json
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\bin\Debug\net7.0\Tong_phan_tu.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\bin\Debug\net7.0\Tong_phan_tu.dll
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\bin\Debug\net7.0\Tong_phan_tu.pdb
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\Tong_phan_tu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\Tong_phan_tu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\Tong_phan_tu.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\Tong_phan_tu.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\Tong_phan_tu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\Tong_phan_tu.dll
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\refint\Tong_phan_tu.dll
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\Tong_phan_tu.pdb
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\Tong_phan_tu.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Tong_phan_tu\obj\Debug\net7.0\ref\Tong_phan_tu.dll
