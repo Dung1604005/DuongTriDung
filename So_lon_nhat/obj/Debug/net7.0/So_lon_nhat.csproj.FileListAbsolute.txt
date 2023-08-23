@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\bin\Debug\net7.0\So_lon_nhat.exe
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\bin\Debug\net7.0\So_lon_nhat.deps.json
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\bin\Debug\net7.0\So_lon_nhat.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\bin\Debug\net7.0\So_lon_nhat.dll
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\bin\Debug\net7.0\So_lon_nhat.pdb
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\So_lon_nhat.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\So_lon_nhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\So_lon_nhat.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\So_lon_nhat.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\So_lon_nhat.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\So_lon_nhat.dll
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\refint\So_lon_nhat.dll
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\So_lon_nhat.pdb
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\So_lon_nhat.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\So_lon_nhat\obj\Debug\net7.0\ref\So_lon_nhat.dll
