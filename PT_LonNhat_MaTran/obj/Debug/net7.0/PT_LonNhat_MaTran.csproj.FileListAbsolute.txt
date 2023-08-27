@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\bin\Debug\net7.0\PT_LonNhat_MaTran.exe
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\bin\Debug\net7.0\PT_LonNhat_MaTran.deps.json
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\bin\Debug\net7.0\PT_LonNhat_MaTran.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\bin\Debug\net7.0\PT_LonNhat_MaTran.dll
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\bin\Debug\net7.0\PT_LonNhat_MaTran.pdb
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\PT_LonNhat_MaTran.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\PT_LonNhat_MaTran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\PT_LonNhat_MaTran.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\PT_LonNhat_MaTran.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\PT_LonNhat_MaTran.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\PT_LonNhat_MaTran.dll
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\refint\PT_LonNhat_MaTran.dll
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\PT_LonNhat_MaTran.pdb
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\PT_LonNhat_MaTran.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\PT_LonNhat_MaTran\obj\Debug\net7.0\ref\PT_LonNhat_MaTran.dll
