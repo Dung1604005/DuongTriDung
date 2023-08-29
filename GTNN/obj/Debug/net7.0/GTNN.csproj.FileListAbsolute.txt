@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\GTNN\bin\Debug\net7.0\GTNN.exe
+C:\Users\ADMIN\DuongTriDung\GTNN\bin\Debug\net7.0\GTNN.deps.json
+C:\Users\ADMIN\DuongTriDung\GTNN\bin\Debug\net7.0\GTNN.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\GTNN\bin\Debug\net7.0\GTNN.dll
+C:\Users\ADMIN\DuongTriDung\GTNN\bin\Debug\net7.0\GTNN.pdb
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\GTNN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\GTNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\GTNN.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\GTNN.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\GTNN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\GTNN.dll
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\refint\GTNN.dll
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\GTNN.pdb
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\GTNN.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\GTNN\obj\Debug\net7.0\ref\GTNN.dll
