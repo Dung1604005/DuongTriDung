@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\bin\Debug\net7.0\Xoa_PT.exe
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\bin\Debug\net7.0\Xoa_PT.deps.json
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\bin\Debug\net7.0\Xoa_PT.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\bin\Debug\net7.0\Xoa_PT.dll
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\bin\Debug\net7.0\Xoa_PT.pdb
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\Xoa_PT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\Xoa_PT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\Xoa_PT.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\Xoa_PT.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\Xoa_PT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\Xoa_PT.dll
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\refint\Xoa_PT.dll
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\Xoa_PT.pdb
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\Xoa_PT.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Xoa_PT\obj\Debug\net7.0\ref\Xoa_PT.dll
