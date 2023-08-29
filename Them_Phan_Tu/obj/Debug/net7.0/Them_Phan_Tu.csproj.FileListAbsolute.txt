@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\bin\Debug\net7.0\Them_Phan_Tu.exe
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\bin\Debug\net7.0\Them_Phan_Tu.deps.json
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\bin\Debug\net7.0\Them_Phan_Tu.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\bin\Debug\net7.0\Them_Phan_Tu.dll
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\bin\Debug\net7.0\Them_Phan_Tu.pdb
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\Them_Phan_Tu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\Them_Phan_Tu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\Them_Phan_Tu.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\Them_Phan_Tu.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\Them_Phan_Tu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\Them_Phan_Tu.dll
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\refint\Them_Phan_Tu.dll
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\Them_Phan_Tu.pdb
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\Them_Phan_Tu.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Them_Phan_Tu\obj\Debug\net7.0\ref\Them_Phan_Tu.dll
