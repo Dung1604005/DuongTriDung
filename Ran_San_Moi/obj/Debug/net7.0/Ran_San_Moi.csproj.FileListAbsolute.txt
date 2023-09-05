@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\bin\Debug\net7.0\Ran_San_Moi.exe
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\bin\Debug\net7.0\Ran_San_Moi.deps.json
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\bin\Debug\net7.0\Ran_San_Moi.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\bin\Debug\net7.0\Ran_San_Moi.dll
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\bin\Debug\net7.0\Ran_San_Moi.pdb
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\Ran_San_Moi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\Ran_San_Moi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\Ran_San_Moi.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\Ran_San_Moi.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\Ran_San_Moi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\Ran_San_Moi.dll
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\refint\Ran_San_Moi.dll
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\Ran_San_Moi.pdb
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\Ran_San_Moi.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Ran_San_Moi\obj\Debug\net7.0\ref\Ran_San_Moi.dll
