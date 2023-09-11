@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\Resizeable\bin\Debug\net7.0\Resizeable.exe
+C:\Users\ADMIN\DuongTriDung\Resizeable\bin\Debug\net7.0\Resizeable.deps.json
+C:\Users\ADMIN\DuongTriDung\Resizeable\bin\Debug\net7.0\Resizeable.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Resizeable\bin\Debug\net7.0\Resizeable.dll
+C:\Users\ADMIN\DuongTriDung\Resizeable\bin\Debug\net7.0\Resizeable.pdb
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\Resizeable.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\Resizeable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\Resizeable.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\Resizeable.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\Resizeable.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\Resizeable.dll
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\refint\Resizeable.dll
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\Resizeable.pdb
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\Resizeable.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Resizeable\obj\Debug\net7.0\ref\Resizeable.dll
