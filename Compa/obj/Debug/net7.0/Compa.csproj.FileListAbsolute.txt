@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\Compa\bin\Debug\net7.0\Compa.exe
+C:\Users\ADMIN\DuongTriDung\Compa\bin\Debug\net7.0\Compa.deps.json
+C:\Users\ADMIN\DuongTriDung\Compa\bin\Debug\net7.0\Compa.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Compa\bin\Debug\net7.0\Compa.dll
+C:\Users\ADMIN\DuongTriDung\Compa\bin\Debug\net7.0\Compa.pdb
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\Compa.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\Compa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\Compa.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\Compa.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\Compa.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\Compa.dll
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\refint\Compa.dll
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\Compa.pdb
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\Compa.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Compa\obj\Debug\net7.0\ref\Compa.dll
