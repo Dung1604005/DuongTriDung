@@ -1,0 +1,15 @@
+C:\Users\ADMIN\DuongTriDung\IColorable\bin\Debug\net7.0\IColorable.exe
+C:\Users\ADMIN\DuongTriDung\IColorable\bin\Debug\net7.0\IColorable.deps.json
+C:\Users\ADMIN\DuongTriDung\IColorable\bin\Debug\net7.0\IColorable.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\IColorable\bin\Debug\net7.0\IColorable.dll
+C:\Users\ADMIN\DuongTriDung\IColorable\bin\Debug\net7.0\IColorable.pdb
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\IColorable.csproj.AssemblyReference.cache
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\IColorable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\IColorable.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\IColorable.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\IColorable.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\IColorable.dll
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\refint\IColorable.dll
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\IColorable.pdb
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\IColorable.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\IColorable\obj\Debug\net7.0\ref\IColorable.dll
