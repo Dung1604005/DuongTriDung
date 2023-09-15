@@ -1,0 +1,14 @@
+C:\Users\ADMIN\DuongTriDung\Tong-File\bin\Debug\net7.0\Tong-File.exe
+C:\Users\ADMIN\DuongTriDung\Tong-File\bin\Debug\net7.0\Tong-File.deps.json
+C:\Users\ADMIN\DuongTriDung\Tong-File\bin\Debug\net7.0\Tong-File.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Tong-File\bin\Debug\net7.0\Tong-File.dll
+C:\Users\ADMIN\DuongTriDung\Tong-File\bin\Debug\net7.0\Tong-File.pdb
+C:\Users\ADMIN\DuongTriDung\Tong-File\obj\Debug\net7.0\Tong-File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Tong-File\obj\Debug\net7.0\Tong-File.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Tong-File\obj\Debug\net7.0\Tong-File.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Tong-File\obj\Debug\net7.0\Tong-File.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Tong-File\obj\Debug\net7.0\Tong-File.dll
+C:\Users\ADMIN\DuongTriDung\Tong-File\obj\Debug\net7.0\refint\Tong-File.dll
+C:\Users\ADMIN\DuongTriDung\Tong-File\obj\Debug\net7.0\Tong-File.pdb
+C:\Users\ADMIN\DuongTriDung\Tong-File\obj\Debug\net7.0\Tong-File.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Tong-File\obj\Debug\net7.0\ref\Tong-File.dll
