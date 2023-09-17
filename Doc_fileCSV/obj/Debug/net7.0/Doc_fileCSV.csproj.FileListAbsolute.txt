@@ -1,0 +1,14 @@
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\bin\Debug\net7.0\Doc_fileCSV.exe
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\bin\Debug\net7.0\Doc_fileCSV.deps.json
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\bin\Debug\net7.0\Doc_fileCSV.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\bin\Debug\net7.0\Doc_fileCSV.dll
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\bin\Debug\net7.0\Doc_fileCSV.pdb
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\obj\Debug\net7.0\Doc_fileCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\obj\Debug\net7.0\Doc_fileCSV.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\obj\Debug\net7.0\Doc_fileCSV.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\obj\Debug\net7.0\Doc_fileCSV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\obj\Debug\net7.0\Doc_fileCSV.dll
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\obj\Debug\net7.0\refint\Doc_fileCSV.dll
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\obj\Debug\net7.0\Doc_fileCSV.pdb
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\obj\Debug\net7.0\Doc_fileCSV.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Doc_fileCSV\obj\Debug\net7.0\ref\Doc_fileCSV.dll
