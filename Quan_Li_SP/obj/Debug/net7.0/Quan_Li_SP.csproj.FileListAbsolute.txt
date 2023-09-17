@@ -1,0 +1,14 @@
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\bin\Debug\net7.0\Quan_Li_SP.exe
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\bin\Debug\net7.0\Quan_Li_SP.deps.json
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\bin\Debug\net7.0\Quan_Li_SP.runtimeconfig.json
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\bin\Debug\net7.0\Quan_Li_SP.dll
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\bin\Debug\net7.0\Quan_Li_SP.pdb
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\obj\Debug\net7.0\Quan_Li_SP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\obj\Debug\net7.0\Quan_Li_SP.AssemblyInfoInputs.cache
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\obj\Debug\net7.0\Quan_Li_SP.AssemblyInfo.cs
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\obj\Debug\net7.0\Quan_Li_SP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\obj\Debug\net7.0\Quan_Li_SP.dll
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\obj\Debug\net7.0\refint\Quan_Li_SP.dll
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\obj\Debug\net7.0\Quan_Li_SP.pdb
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\obj\Debug\net7.0\Quan_Li_SP.genruntimeconfig.cache
+C:\Users\ADMIN\DuongTriDung\Quan_Li_SP\obj\Debug\net7.0\ref\Quan_Li_SP.dll
